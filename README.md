@@ -2,6 +2,8 @@
 
 This repository is used only for bug reports, feature requests, and general feedback related to **pdfimgq**.
 
+PyPI package: `https://pypi.org/project/pdfimgq/`
+
 ## About pdfimgq
 
 `pdfimgq` is a desktop and CLI tool for verifying the technical quality of raster images embedded in PDF documents.
