@@ -1,0 +1,16 @@
+name: Feature request
+description: Suggest an improvement for pdfimgq
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Suggested improvement
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Why would this be useful?
